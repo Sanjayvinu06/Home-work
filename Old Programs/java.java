@@ -1,0 +1,16 @@
+import java.util.Scanner;
+class Java
+{
+	public static void main(String []args)
+	{
+	Scanner.sc=new Scanner("system.in");
+	}
+	for (int i=0;i<ar.length;i++)
+	{
+		system.out.println("enter num  :");
+		sum i=0;
+		
+	}
+	
+
+}
